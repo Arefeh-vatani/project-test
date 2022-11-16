@@ -10,7 +10,7 @@ class HelloWorld {
     //month
     Console.WriteLine("M: " + days/30);
     days = days%30;
-    //day
+    //dayy
     Console.WriteLine("D: " + days);
   }
 }
